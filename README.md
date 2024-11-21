@@ -1,4 +1,4 @@
-# Google Maps Place Picker - MB edition
+# Google Maps Place Picker - Cerberodev edition
 
 > This README is only slightly changed from its original repo which this repository was forked from. Due to little maintenance by the original author, I want to provide this fork that is not just more maintained, I also add more functionality to it and pick any significant changes and PRs on the original repository, as well.
 > 
@@ -8,7 +8,7 @@
 > flutter pub add google_maps_place_picker_mb
 > ```
 > 
-> ~ _martin-braun_
+> ~ _cerberodev_
 
 ----------------------------------------------------
 
